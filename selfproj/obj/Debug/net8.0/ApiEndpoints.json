@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "selfproj.Controllers.HomeController",
+    "Method": "askmeany",
+    "RelativePath": "home/askme",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "q",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

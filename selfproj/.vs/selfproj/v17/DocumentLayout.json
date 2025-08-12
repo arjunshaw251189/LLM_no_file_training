@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ARNA\\source\\repos\\selfproj\\",
+  "WorkspaceRootPath": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\source\\repos\\selfproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\source\\repos\\selfproj\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\documents\\github\\llm_no_file_training\\selfproj\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\source\\repos\\selfproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\documents\\github\\llm_no_file_training\\selfproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\source\\repos\\selfproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\documents\\github\\llm_no_file_training\\selfproj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\documents\\github\\llm_no_file_training\\selfproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|c:\\users\\arna\\documents\\github\\llm_no_file_training\\selfproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FF341B3-9007-4099-A18B-C9724511E9C9}|selfproj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,55 +34,66 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T13:01:00.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\ARNA\\source\\repos\\selfproj\\Models\\Class.cs",
+              "DocumentMoniker": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Models\\Class.cs",
               "RelativeDocumentMoniker": "Models\\Class.cs",
-              "ToolTip": "C:\\Users\\ARNA\\source\\repos\\selfproj\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Models\\Class.cs",
               "RelativeToolTip": "Models\\Class.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T07:54:32.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ARNA\\source\\repos\\selfproj\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ARNA\\source\\repos\\selfproj\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ToolTip": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAewB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T07:52:29.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:52:29.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ARNA\\source\\repos\\selfproj\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ARNA\\source\\repos\\selfproj\\appsettings.json",
+              "ToolTip": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-31T07:51:45.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ARNA\\source\\repos\\selfproj\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ARNA\\source\\repos\\selfproj\\Program.cs",
+              "ToolTip": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAIBJwBEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T07:19:17.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:19:17.625Z"
             }
           ]
         }

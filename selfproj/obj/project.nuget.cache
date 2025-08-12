@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uB0arb+sVKQ=",
+  "dgSpecHash": "bsvR1M0sLtU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ARNA\\source\\repos\\selfproj\\selfproj.csproj",
+  "projectFilePath": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\selfproj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ARNA\\.nuget\\packages\\azure.ai.openai\\2.1.0\\azure.ai.openai.2.1.0.nupkg.sha512",
     "C:\\Users\\ARNA\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",

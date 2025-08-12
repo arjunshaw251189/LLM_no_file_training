@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ARNA\\source\\repos\\selfproj\\selfproj.csproj": {}
+    "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\selfproj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ARNA\\source\\repos\\selfproj\\selfproj.csproj": {
+    "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\selfproj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ARNA\\source\\repos\\selfproj\\selfproj.csproj",
+        "projectUniqueName": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\selfproj.csproj",
         "projectName": "selfproj",
-        "projectPath": "C:\\Users\\ARNA\\source\\repos\\selfproj\\selfproj.csproj",
+        "projectPath": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\selfproj.csproj",
         "packagesPath": "C:\\Users\\ARNA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ARNA\\source\\repos\\selfproj\\obj\\",
+        "outputPath": "C:\\Users\\ARNA\\Documents\\GitHub\\LLM_no_file_training\\selfproj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
